@@ -195,3 +195,14 @@ header{
 .item > p:hover {
   padding: 0 1vw 0;
 }
+
+.worldmap{
+  margin-top: 3vw;
+  text-align: center;
+}
+
+.worldmap_img{
+  max-width: 1115px;
+  max-height: 760px;
+  border: 1vw solid #000000;
+}
